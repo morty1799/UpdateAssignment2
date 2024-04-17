@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  
+    h1 {
+      font-size: 28px;
+    }
+  
+    .card ul {
+      font-size: 14px;
+    }
+  
+    .video iframe {
+      width: auto;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 24px;
+    }
+  
+    .card {
+      padding: 15px;
+    }
+
+    .video iframe {
+        width: auto;
+    }
+  }
